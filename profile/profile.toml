@@ -1,0 +1,17 @@
+user = "oliverg09"
+name = "Oliver García"
+role = "Odoo developer at Binhex · OCA contributor"
+
+[lists]
+in_review = 5   # rows in "Waiting for review"
+merged = 5      # rows in "Recently merged"
+# Housekeeping PRs left out of both lists (they still count in the charts).
+hide = ["correct author name"]
+
+# A short description for the PRs whose title is just a module name.
+[notes]
+mail_message_import = "one shared inbox for messages from any channel"
+mail_message_import_email = "receive email into the shared inbox"
+mail_message_import_whatsapp = "receive WhatsApp messages into the shared inbox"
+business_requirement_deliverable_project = "approved deliverables become project tasks"
+business_requirement_project = "link project tasks to business requirements"

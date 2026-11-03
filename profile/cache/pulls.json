@@ -3,384 +3,384 @@
   "title": "[17.0][ADD] mail_message_import_whatsapp",
   "url": "https://github.com/OCA/social/pull/1963",
   "repo": "OCA/social",
-  "created": "2026-11-03",
   "state": "open",
-  "merged": false
+  "opened": "2026-11-03",
+  "merged": null
  },
  {
   "title": "[18.0][ADD] mail_message_import_whatsapp",
   "url": "https://github.com/OCA/social/pull/1962",
   "repo": "OCA/social",
-  "created": "2026-11-03",
   "state": "open",
-  "merged": false
+  "opened": "2026-11-03",
+  "merged": null
  },
  {
   "title": "[17.0][ADD] mail_message_import_email",
   "url": "https://github.com/OCA/social/pull/1961",
   "repo": "OCA/social",
-  "created": "2026-11-03",
   "state": "open",
-  "merged": false
+  "opened": "2026-11-03",
+  "merged": null
  },
  {
   "title": "[18.0][ADD] mail_message_import_email",
   "url": "https://github.com/OCA/social/pull/1960",
   "repo": "OCA/social",
-  "created": "2026-11-03",
   "state": "open",
-  "merged": false
+  "opened": "2026-11-03",
+  "merged": null
  },
  {
   "title": "[17.0][ADD] mail_message_import",
   "url": "https://github.com/OCA/social/pull/1959",
   "repo": "OCA/social",
-  "created": "2026-11-03",
   "state": "open",
-  "merged": false
+  "opened": "2026-11-03",
+  "merged": null
  },
  {
   "title": "[18.0][ADD] mail_message_import",
   "url": "https://github.com/OCA/social/pull/1952",
   "repo": "OCA/social",
-  "created": "2026-10-30",
   "state": "open",
-  "merged": false
+  "opened": "2026-10-30",
+  "merged": null
  },
  {
   "title": "[17.0][FIX] mail_gateway: cache gateway map by state and type",
   "url": "https://github.com/OCA/social/pull/1951",
   "repo": "OCA/social",
-  "created": "2026-10-30",
   "state": "open",
-  "merged": false
+  "opened": "2026-10-30",
+  "merged": null
  },
  {
   "title": "[18.0][FIX] mail_gateway: cache gateway map by state and type",
   "url": "https://github.com/OCA/social/pull/1950",
   "repo": "OCA/social",
-  "created": "2026-10-30",
   "state": "open",
-  "merged": false
+  "opened": "2026-10-30",
+  "merged": null
  },
  {
   "title": "[18.0][BKP] shopify_connector: Backport updates from 19.0",
   "url": "https://github.com/OCA/connector-shopify/pull/29",
   "repo": "OCA/connector-shopify",
-  "created": "2026-10-27",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-27",
+  "merged": "2026-10-27"
  },
  {
   "title": "[18.0][MIG] shopify_connector_website_sale: Migration to 18.0",
   "url": "https://github.com/OCA/connector-shopify/pull/28",
   "repo": "OCA/connector-shopify",
-  "created": "2026-10-27",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-27",
+  "merged": "2026-10-30"
  },
  {
   "title": "[17.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/reporting-engine/pull/1209",
   "repo": "OCA/reporting-engine",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[17.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/sale-workflow/pull/4644",
   "repo": "OCA/sale-workflow",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-09"
  },
  {
   "title": "[18.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/sale-workflow/pull/4643",
   "repo": "OCA/sale-workflow",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-09"
  },
  {
   "title": "[19.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/sale-workflow/pull/4642",
   "repo": "OCA/sale-workflow",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-09"
  },
  {
   "title": "[18.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/purchase-workflow/pull/3208",
   "repo": "OCA/purchase-workflow",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-29"
  },
  {
   "title": "[19.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/purchase-workflow/pull/3207",
   "repo": "OCA/purchase-workflow",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-30"
  },
  {
   "title": "[17.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/purchase-workflow/pull/3206",
   "repo": "OCA/purchase-workflow",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-30"
  },
  {
   "title": "[17.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/stock-logistics-reporting/pull/550",
   "repo": "OCA/stock-logistics-reporting",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[17.0][FIX] attachment_logging: correct mail name",
   "url": "https://github.com/OCA/server-tools/pull/3778",
   "repo": "OCA/server-tools",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[17.0][FIX] stock_account_change_qty_reason: correct author name",
   "url": "https://github.com/OCA/stock-logistics-warehouse/pull/2665",
   "repo": "OCA/stock-logistics-warehouse",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[17.0][FIX] stock_production_lot_expired_date: correct author name",
   "url": "https://github.com/OCA/product-attribute/pull/2432",
   "repo": "OCA/product-attribute",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[17.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/account-invoicing/pull/2472",
   "repo": "OCA/account-invoicing",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[16.0][FIX] Binhex: correct author name",
   "url": "https://github.com/OCA/account-invoicing/pull/2471",
   "repo": "OCA/account-invoicing",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[18.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/account-invoicing/pull/2470",
   "repo": "OCA/account-invoicing",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-21"
  },
  {
   "title": "[19.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/partner-contact/pull/2484",
   "repo": "OCA/partner-contact",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-27"
  },
  {
   "title": "[18.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/partner-contact/pull/2483",
   "repo": "OCA/partner-contact",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[16.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/partner-contact/pull/2482",
   "repo": "OCA/partner-contact",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[17.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/partner-contact/pull/2481",
   "repo": "OCA/partner-contact",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[17.0][FIX] fieldservice_activity: correct author name",
   "url": "https://github.com/OCA/field-service/pull/1639",
   "repo": "OCA/field-service",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[19.0][FIX] fieldservice_activity: correct author name",
   "url": "https://github.com/OCA/field-service/pull/1638",
   "repo": "OCA/field-service",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[18.0][FIX] fieldservice_activity: correct author name",
   "url": "https://github.com/OCA/field-service/pull/1637",
   "repo": "OCA/field-service",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[15.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/l10n-spain/pull/5298",
   "repo": "OCA/l10n-spain",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[19.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/l10n-spain/pull/5297",
   "repo": "OCA/l10n-spain",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-08"
  },
  {
   "title": "[16.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/l10n-spain/pull/5296",
   "repo": "OCA/l10n-spain",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-07"
  },
  {
   "title": "[17.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/l10n-spain/pull/5295",
   "repo": "OCA/l10n-spain",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-07"
  },
  {
   "title": "[18.0][FIX] Binhex System Solutions to Binhex: correct author name",
   "url": "https://github.com/OCA/l10n-spain/pull/5294",
   "repo": "OCA/l10n-spain",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-07"
  },
  {
   "title": "[17.0][FIX] account_invoice_report_printed_flag: correct author name",
   "url": "https://github.com/OCA/account-invoice-reporting/pull/436",
   "repo": "OCA/account-invoice-reporting",
-  "created": "2026-10-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-07",
+  "merged": "2026-10-30"
  },
  {
   "title": "[18.0][ADD] business_requirement_deliverable_project",
   "url": "https://github.com/OCA/business-requirement/pull/409",
   "repo": "OCA/business-requirement",
-  "created": "2026-10-06",
   "state": "closed",
-  "merged": true
+  "opened": "2026-10-06",
+  "merged": "2026-10-21"
  },
  {
   "title": "[18.0][ADD] business_requirement_project",
   "url": "https://github.com/OCA/business-requirement/pull/408",
   "repo": "OCA/business-requirement",
-  "created": "2026-10-06",
   "state": "closed",
-  "merged": false
+  "opened": "2026-10-06",
+  "merged": null
  },
  {
   "title": "[19.0][FIX] shopify_connector: serialise token renewal with an advisory lock",
   "url": "https://github.com/OCA/connector-shopify/pull/12",
   "repo": "OCA/connector-shopify",
-  "created": "2026-09-11",
   "state": "closed",
-  "merged": true
+  "opened": "2026-09-11",
+  "merged": "2026-09-11"
  },
  {
   "title": "[18.0][IMP] shopify_connector: support Dev Dashboard authentication",
   "url": "https://github.com/OCA/connector-shopify/pull/11",
   "repo": "OCA/connector-shopify",
-  "created": "2026-09-10",
   "state": "closed",
-  "merged": true
+  "opened": "2026-09-10",
+  "merged": "2026-09-11"
  },
  {
   "title": "[19.0][IMP] shopify_connector: update module icon",
   "url": "https://github.com/OCA/connector-shopify/pull/10",
   "repo": "OCA/connector-shopify",
-  "created": "2026-09-07",
   "state": "closed",
-  "merged": true
+  "opened": "2026-09-07",
+  "merged": "2026-09-10"
  },
  {
   "title": "[19.0][IMP] shopify_connector: support Dev Dashboard authentication",
   "url": "https://github.com/OCA/connector-shopify/pull/9",
   "repo": "OCA/connector-shopify",
-  "created": "2026-08-21",
   "state": "closed",
-  "merged": true
+  "opened": "2026-08-21",
+  "merged": "2026-09-10"
  },
  {
   "title": "[19.0][IMP] shopify_connector: support Dev Dashboard authentication",
   "url": "https://github.com/OCA/connector-shopify/pull/8",
   "repo": "OCA/connector-shopify",
-  "created": "2026-08-20",
   "state": "closed",
-  "merged": false
+  "opened": "2026-08-20",
+  "merged": null
  },
  {
   "title": "[18.0][MIG] shopify_connector_pos: Migration to 18.0",
   "url": "https://github.com/OCA/connector-shopify/pull/7",
   "repo": "OCA/connector-shopify",
-  "created": "2026-08-19",
   "state": "closed",
-  "merged": true
+  "opened": "2026-08-19",
+  "merged": "2026-09-10"
  },
  {
   "title": "[18.0][MIG] shopify_connector_account: Migration to 18.0",
   "url": "https://github.com/OCA/connector-shopify/pull/6",
   "repo": "OCA/connector-shopify",
-  "created": "2026-08-19",
   "state": "closed",
-  "merged": true
+  "opened": "2026-08-19",
+  "merged": "2026-09-10"
  },
  {
   "title": "[18.0][MIG] shopify_connector: Migration to 18.0",
   "url": "https://github.com/OCA/connector-shopify/pull/5",
   "repo": "OCA/connector-shopify",
-  "created": "2026-08-19",
   "state": "closed",
-  "merged": true
+  "opened": "2026-08-19",
+  "merged": "2026-09-07"
  },
  {
   "title": "[IMP] connector-shopify: add 18.0 branch",
   "url": "https://github.com/OCA/repo-maintainer-conf/pull/217",
   "repo": "OCA/repo-maintainer-conf",
-  "created": "2026-08-19",
   "state": "closed",
-  "merged": true
+  "opened": "2026-08-19",
+  "merged": "2026-08-19"
  }
 ]
