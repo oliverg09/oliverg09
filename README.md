@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- city:start -->
-<img src="./assets/city.svg" width="100%" alt="Contribution city: an isometric skyline at night with one building per active day of the last year. 748 contributions, 140 buildings, the tallest on Aug 3 with 78.">
+<img src="./assets/city.svg" width="100%" alt="Contribution city: an isometric skyline at night with one building per active day of the last year. 750 contributions, 140 buildings, the tallest on Aug 3 with 78.">
 <!-- city:end -->
 </p>
 
