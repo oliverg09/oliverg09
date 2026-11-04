@@ -1,5 +1,53 @@
 [
  {
+  "title": "[18.0][ADD] mail_message_import",
+  "url": "https://github.com/OCA/social/pull/1966",
+  "repo": "OCA/social",
+  "state": "open",
+  "opened": "2026-11-04",
+  "merged": null
+ },
+ {
+  "title": "[17.0][ADD] mail_message_import",
+  "url": "https://github.com/OCA/social/pull/1965",
+  "repo": "OCA/social",
+  "state": "open",
+  "opened": "2026-11-04",
+  "merged": null
+ },
+ {
+  "title": "[17.0][ADD] ai_message_import, ai_message_import_purchase, ai_message_import_sale",
+  "url": "https://github.com/OCA/ai/pull/153",
+  "repo": "OCA/ai",
+  "state": "open",
+  "opened": "2026-11-04",
+  "merged": null
+ },
+ {
+  "title": "[17.0][MIG] ai_connection_openai: Migration to 17.0",
+  "url": "https://github.com/OCA/ai/pull/152",
+  "repo": "OCA/ai",
+  "state": "open",
+  "opened": "2026-11-04",
+  "merged": null
+ },
+ {
+  "title": "[17.0][MIG] ai_connection: Migration to 17.0",
+  "url": "https://github.com/OCA/ai/pull/151",
+  "repo": "OCA/ai",
+  "state": "open",
+  "opened": "2026-11-04",
+  "merged": null
+ },
+ {
+  "title": "[18.0][ADD] ai_message_import, ai_message_import_purchase, ai_message_import_sale",
+  "url": "https://github.com/OCA/ai/pull/150",
+  "repo": "OCA/ai",
+  "state": "open",
+  "opened": "2026-11-04",
+  "merged": null
+ },
+ {
   "title": "[17.0][ADD] mail_message_import_whatsapp",
   "url": "https://github.com/OCA/social/pull/1963",
   "repo": "OCA/social",
@@ -35,7 +83,7 @@
   "title": "[17.0][ADD] mail_message_import",
   "url": "https://github.com/OCA/social/pull/1959",
   "repo": "OCA/social",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-11-03",
   "merged": null
  },
@@ -43,7 +91,7 @@
   "title": "[18.0][ADD] mail_message_import",
   "url": "https://github.com/OCA/social/pull/1952",
   "repo": "OCA/social",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-10-30",
   "merged": null
  },
@@ -59,9 +107,9 @@
   "title": "[18.0][FIX] mail_gateway: cache gateway map by state and type",
   "url": "https://github.com/OCA/social/pull/1950",
   "repo": "OCA/social",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-10-30",
-  "merged": null
+  "merged": "2026-11-03"
  },
  {
   "title": "[18.0][BKP] shopify_connector: Backport updates from 19.0",
