@@ -99,9 +99,9 @@
   "title": "[17.0][FIX] mail_gateway: cache gateway map by state and type",
   "url": "https://github.com/OCA/social/pull/1951",
   "repo": "OCA/social",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-10-30",
-  "merged": null
+  "merged": "2026-11-05"
  },
  {
   "title": "[18.0][FIX] mail_gateway: cache gateway map by state and type",
