@@ -1,5 +1,37 @@
 [
  {
+  "title": "[19.0][MIG] partner_capital: Migration to 19.0",
+  "url": "https://github.com/OCA/partner-contact/pull/2534",
+  "repo": "OCA/partner-contact",
+  "state": "open",
+  "opened": "2026-11-11",
+  "merged": null
+ },
+ {
+  "title": "[19.0][MIG] ai_oca_bridge_extra_parameters: Migration to 19.0",
+  "url": "https://github.com/OCA/ai/pull/156",
+  "repo": "OCA/ai",
+  "state": "open",
+  "opened": "2026-11-11",
+  "merged": null
+ },
+ {
+  "title": "[19.0][MIG] crm_partner_employee_quantity: Migration to 19.0",
+  "url": "https://github.com/OCA/crm/pull/790",
+  "repo": "OCA/crm",
+  "state": "open",
+  "opened": "2026-11-11",
+  "merged": null
+ },
+ {
+  "title": "[19.0][MIG] crm_partner_capital: Migration to 19.0",
+  "url": "https://github.com/OCA/crm/pull/789",
+  "repo": "OCA/crm",
+  "state": "open",
+  "opened": "2026-11-11",
+  "merged": null
+ },
+ {
   "title": "[18.0][ADD] mail_message_import",
   "url": "https://github.com/OCA/social/pull/1966",
   "repo": "OCA/social",
