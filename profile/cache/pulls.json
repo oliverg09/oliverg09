@@ -1,5 +1,21 @@
 [
  {
+  "title": "[19.0][MIG] hr_attendance_modification_tracking: Migration to 19.0",
+  "url": "https://github.com/OCA/hr-attendance/pull/324",
+  "repo": "OCA/hr-attendance",
+  "state": "open",
+  "opened": "2026-11-12",
+  "merged": null
+ },
+ {
+  "title": "[19.0][MIG] web_field_tooltip: Migration to 19.0",
+  "url": "https://github.com/OCA/web/pull/3803",
+  "repo": "OCA/web",
+  "state": "open",
+  "opened": "2026-11-12",
+  "merged": null
+ },
+ {
   "title": "[19.0][MIG] partner_capital: Migration to 19.0",
   "url": "https://github.com/OCA/partner-contact/pull/2534",
   "repo": "OCA/partner-contact",
