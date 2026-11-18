@@ -3,9 +3,9 @@
   "title": "[18.0][FIX] shopify_connector: find webhook events on the dashboard by their delivered topic",
   "url": "https://github.com/OCA/connector-shopify/pull/70",
   "repo": "OCA/connector-shopify",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-11-17",
-  "merged": null
+  "merged": "2026-11-18"
  },
  {
   "title": "[18.0][IMP] shopify_connector: show the store's failed jobs on the dashboard",
@@ -19,9 +19,9 @@
   "title": "[18.0][BKP] shopify_connector: Backport fixes from 19.0",
   "url": "https://github.com/OCA/connector-shopify/pull/68",
   "repo": "OCA/connector-shopify",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-11-17",
-  "merged": null
+  "merged": "2026-11-18"
  },
  {
   "title": "[18.0][FIX] shopify_connector: a Shopify sale delivered from Odoo is taken out of stock once",
