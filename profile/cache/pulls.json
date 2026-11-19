@@ -11,9 +11,9 @@
   "title": "[18.0][IMP] shopify_connector: show the store's failed jobs on the dashboard",
   "url": "https://github.com/OCA/connector-shopify/pull/69",
   "repo": "OCA/connector-shopify",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-11-17",
-  "merged": null
+  "merged": "2026-11-19"
  },
  {
   "title": "[18.0][BKP] shopify_connector: Backport fixes from 19.0",
@@ -27,9 +27,9 @@
   "title": "[18.0][FIX] shopify_connector: a Shopify sale delivered from Odoo is taken out of stock once",
   "url": "https://github.com/OCA/connector-shopify/pull/67",
   "repo": "OCA/connector-shopify",
-  "state": "open",
+  "state": "closed",
   "opened": "2026-11-17",
-  "merged": null
+  "merged": "2026-11-19"
  },
  {
   "title": "[19.0][MIG] hr_attendance_modification_tracking: Migration to 19.0",
